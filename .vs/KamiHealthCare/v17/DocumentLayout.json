@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|c:\\users\\kami\\source\\repos\\kamihealthcare\\kamihealthcare\\pages\\patients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|solutionrelative:kamihealthcare\\pages\\patients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|c:\\users\\kami\\source\\repos\\kamihealthcare\\kamihealthcare\\pages\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|solutionrelative:kamihealthcare\\pages\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|c:\\users\\kami\\source\\repos\\kamihealthcare\\kamihealthcare\\pages\\patients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|solutionrelative:kamihealthcare\\pages\\patients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|c:\\users\\kami\\source\\repos\\kamihealthcare\\kamihealthcare\\pages\\patients\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|solutionrelative:kamihealthcare\\pages\\patients\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|c:\\users\\kami\\source\\repos\\kamihealthcare\\kamihealthcare\\pages\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|solutionrelative:kamihealthcare\\pages\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|c:\\users\\kami\\source\\repos\\kamihealthcare\\kamihealthcare\\pages\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|solutionrelative:kamihealthcare\\pages\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|c:\\users\\kami\\source\\repos\\kamihealthcare\\kamihealthcare\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|solutionrelative:kamihealthcare\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|c:\\users\\kami\\source\\repos\\kamihealthcare\\kamihealthcare\\pages\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831EA95C-2F0C-41F4-B202-0946FB42AD50}|KamiHealthCare\\KamiHealthCare.csproj|solutionrelative:kamihealthcare\\pages\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "KamiHealthCare\\Pages\\Patients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Index.cshtml",
+              "RelativeToolTip": "KamiHealthCare\\Pages\\Patients\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:01:20.807Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "KamiHealthCare\\Pages\\Patients\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Edit.cshtml.cs",
+              "RelativeToolTip": "KamiHealthCare\\Pages\\Patients\\Edit.cshtml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:33:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KamiHealthCare\\Pages\\Patients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Edit.cshtml",
+              "RelativeToolTip": "KamiHealthCare\\Pages\\Patients\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:03:13.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "KamiHealthCare\\Pages\\Patients\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Create.cshtml.cs",
+              "RelativeToolTip": "KamiHealthCare\\Pages\\Patients\\Create.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:35:41.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "KamiHealthCare\\Pages\\Patients\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Index.cshtml.cs",
+              "RelativeToolTip": "KamiHealthCare\\Pages\\Patients\\Index.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:56:24.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KamiHealthCare\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KamiHealthCare\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:07:49.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "KamiHealthCare\\Pages\\Patients\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Delete.cshtml",
+              "RelativeToolTip": "KamiHealthCare\\Pages\\Patients\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:04:49.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "KamiHealthCare\\Pages\\Patients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\KamiHealthCare\\KamiHealthCare\\Pages\\Patients\\Create.cshtml",
+              "RelativeToolTip": "KamiHealthCare\\Pages\\Patients\\Create.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:02:22.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
